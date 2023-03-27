@@ -12,4 +12,4 @@ Feel free to explore my GitHub repositories to get a sense of the projects I've 
 
 Happy coding! :rocket:
 
-_Generated with GTP-4_
+_Generated with GPT-4_
